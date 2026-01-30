@@ -1,4 +1,4 @@
-# 📄 Professional Resume Portfolio
+# 📄 Resume Portfolio
 
 Welcome to my professional resume portfolio! This project is a curated showcase of my technical skills, academic background, and professional experiences, built with a focus on clean design and accessibility.
 
@@ -22,10 +22,12 @@ This is a single-page, responsive resume website designed to provide recruiters 
 
 ## 📸 Screenshots
 
-| Professional Resume Preview |
+| Resume Preview |
 | :---: |
-| ![Resume Top Section](screenshots/Screenshot 2026-01-30 at 13.33.14.png) |
-| ![Resume Bottom Section](screenshots/Screenshot 2026-01-30 at 13.33.29.png) |
+|  <img width="1710" height="1037" alt="Screenshot 2026-01-30 at 13 33 14" src="https://github.com/user-attachments/assets/0c072d05-1535-4a66-987a-abe6afba557f" />
+ |
+| <img width="1710" height="1029" alt="Screenshot 2026-01-30 at 13 33 29" src="https://github.com/user-attachments/assets/5a4c107d-922f-4daa-8135-e62926cf741f" />
+ |
 | *Full preview of my professional resume portfolio.* |
 
 ---
