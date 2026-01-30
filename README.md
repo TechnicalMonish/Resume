@@ -24,10 +24,10 @@ This is a single-page, responsive resume website designed to provide recruiters 
 
 | Resume Preview |
 | :---: |
-|  <img width="1710" height="1037" alt="Screenshot 2026-01-30 at 13 33 14" src="https://github.com/user-attachments/assets/0c072d05-1535-4a66-987a-abe6afba557f" />
- |
-| <img width="1710" height="1029" alt="Screenshot 2026-01-30 at 13 33 29" src="https://github.com/user-attachments/assets/5a4c107d-922f-4daa-8135-e62926cf741f" />
- |
+  <img width="1710" height="1037" alt="Screenshot 2026-01-30 at 13 33 14" src="https://github.com/user-attachments/assets/0c072d05-1535-4a66-987a-abe6afba557f" />
+ 
+ <img width="1710" height="1029" alt="Screenshot 2026-01-30 at 13 33 29" src="https://github.com/user-attachments/assets/5a4c107d-922f-4daa-8135-e62926cf741f" />
+ 
 | *Full preview of my professional resume portfolio.* |
 
 ---
