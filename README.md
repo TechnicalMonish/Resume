@@ -24,8 +24,8 @@ This is a single-page, responsive resume website designed to provide recruiters 
 
 | Professional Resume Preview |
 | :---: |
-| ![Resume Top Section](screenshots/Screenshot%202026-01-30%20at%2013.33.14.png) |
-| ![Resume Bottom Section](screenshots/Screenshot%202026-01-30%20at%2013.33.29.png) |
+| ![Resume Top Section](screenshots/Screenshot 2026-01-30 at 13.33.14.png) |
+| ![Resume Bottom Section](screenshots/Screenshot 2026-01-30 at 13.33.29.png) |
 | *Full preview of my professional resume portfolio.* |
 
 ---
